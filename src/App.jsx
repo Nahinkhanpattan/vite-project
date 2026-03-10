@@ -1,4 +1,5 @@
 import Counter from "../src/components/Counter"
+import UserList from "./components/Userlist"
 
 function App() {
 
@@ -6,6 +7,7 @@ function App() {
     <>
       <Counter></Counter>
       <Counter></Counter>
+      <UserList></UserList>
     </>
   )
 }
