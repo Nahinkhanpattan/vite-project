@@ -10,6 +10,7 @@ function Counter() {
           count is {count}
         </button>
         <h1>This program is writen by me "Nahin" </h1>
+        <p>This is a simple counter component.</p>
         </div>
     </>
   )
